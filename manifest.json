@@ -1,0 +1,17 @@
+{
+  "name": "bar-chart-race",
+  "version": "1.0.0",
+  "size": {
+    "width": 3,
+    "height": 3
+  },
+  "mapping": [
+    {
+      "dataSetId": "e31bc4d1-eedc-475b-9bc0-2fcfb8e294b5",
+      "alias": "discussions",
+      "fields": []
+    }
+  ],
+  "fileName": "manifest.json",
+  "id": "0668b2ed-5fbb-4868-89bb-8e957f9c9485"
+}
